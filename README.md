@@ -1,2 +1,2 @@
 # cdek_curation_manuscript
-The repository containing figures and figure source code for the manuscript describing the curation of CDEK: Clinical Drug Experience Knowledgebase
+The repository containing figures and figure source code for the manuscript describing the curation of CDEK: Clinical Drug Experience Knowledgebase. See the Jupyter Notebook "Figure6_heatmap_overlaping_APIs.ipynb" for the source code for Figure 6.
